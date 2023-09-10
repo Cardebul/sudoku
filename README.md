@@ -9,7 +9,7 @@ git clone https://github.com/Cardebul/Sudoku.git
 ```
 
 ```
-cd Sudoku
+cd sudoku
 ```
 
 Cоздать и активировать виртуальное окружение:
